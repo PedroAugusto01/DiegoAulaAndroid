@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AulaDois</string>
+    <string name="text">Text</string>
+    <string name="hello_world">hello world!</string>
+    <string name="view_text">hello world!</string>
+    <string name="hint_enter_text">Digitar texto</string>
+</resources>

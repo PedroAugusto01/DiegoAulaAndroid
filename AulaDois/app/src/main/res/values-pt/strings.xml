@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AulaDois</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="text">Texto</string>
+    <string name="view_text">hello world!</string>
+</resources>
